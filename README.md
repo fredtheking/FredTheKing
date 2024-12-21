@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&duration=1000&pause=3999&color=35E1EB&center=true&vCenter=true&random=true&width=530&lines=I+Hate+Writing+Shaders;Made+with+Raylib;Lorem+ipsum+dolor+sit+amet;Couldn't+find+L%C3%96VE+badge+%3A(;%E1%93%9A%E1%98%8F%E1%97%A2;Sorry+for+loving+Python;Love+Lua+Tables+(they+are+op);Django-mango;Monke;I+have+no+idea+what+to+put+here+._.;I+love+programming+Scene+Managers;I+love+programming;Yoyo!!1!;Also+try+Minecraft!;I+love;Line+16;This+is+Pixelify+Sans+font.+Cool%2C+right%3F;LBP+ONE+LOVE;Enter+text+here" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&duration=1&pause=179&color=EB27BF&center=true&vCenter=true&width=530&lines=%7C+-------+%7C+Dancing+separator+%7C+-------+%7C;%2F+-----+%5C+Dancing+separator+%5C+-----+%2F;%7C+-------+%7C+Dancing+separator+%7C+-------+%7C;%5C+-----+%2F+Dancing+separator+%2F+-----+%5C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=200&pause=1987&color=35E1EB&center=true&vCenter=true&random=true&width=530&separator=%3C&lines=Made+with+Raylib%3CLorem+ipsum+dolor+sit+amet%3C%E1%93%9A%E1%98%8F%E1%97%A2%3Cdont+love+js%3CDjango-mango%3Ceue%3Ci+love+programming+Scene+Managers%3Ci+love+programming%3CYoyo!!1!%3CAlso+try+Minecraft!%3Ci+love%3CIm+bad+at+making+fnaf+AIs%3CLine+15%3CLBP+ONE+LOVE%3CEnter+text+here%3CI%3CThe+quick+brown+fox+jumps+over+the+lazy+dog%3CNot+Line+17%3Cif+(!dead)+code();%3Cif+not+dead%3A+code()%3Ci+love+making+side+projects%3Ci+love+not+finishing+my+side+projects%3CAm+i+code%3F%3CCode+bullet+is+funny+AF!!%3CYoo%2C+Line+26!!!11!111%3CLove+raylib%3CLike+raylib%3CLove+C%23%3Ci+use+AI+when+coding.+dont+kill+me+pls%3Czebra%3F%3F%2F%3F%3F" alt="Typing SVG" />
 
 |Category|Badges (from most to least favourite)|
 |-|-|
